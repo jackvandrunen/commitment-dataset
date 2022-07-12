@@ -1,0 +1,4 @@
+[submodule "esg"]
+	path = esg
+	url = git@github.com:jackvandrunen/esg
+	branch = develop
